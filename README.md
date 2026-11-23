@@ -35,11 +35,13 @@ Smaller Python projects: [Password Manager](https://github.com/Amin-nekouei/Pass
 
 ## 🧰 Tech stack
 
-**Languages:** Python · Java · JavaScript · PHP · SQL · Dart
-**Back end:** Django · Flask · Jakarta EE (JAX-RS, JPA) · Servlets/JSP
-**Front end:** HTML · CSS · Bootstrap · Jinja / Django templates · Flutter
-**Databases:** PostgreSQL · MySQL · Oracle (PL/SQL) · SQL Server
-**Tools:** Git · GitHub · Maven · Selenium · Playwright · Render · Linux
+| | |
+|---|---|
+| **Languages** | Python · Java · JavaScript · PHP · SQL · Dart |
+| **Back end** | Django · Flask · Jakarta EE (JAX-RS, JPA) · Servlets/JSP |
+| **Front end** | HTML · CSS · Bootstrap · Jinja / Django templates · Flutter |
+| **Databases** | PostgreSQL · MySQL · Oracle (PL/SQL) · SQL Server |
+| **Tools** | Git · GitHub · Maven · Selenium · Playwright · Render · Linux |
 
 ## 🌍 Languages
 
