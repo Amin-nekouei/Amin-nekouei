@@ -45,4 +45,4 @@ Smaller Python projects: [Password Manager](https://github.com/Amin-nekouei/Pass
 
 ## 🌍 Languages
 
-English · Persian (native)
+English · French · Persian (native)
