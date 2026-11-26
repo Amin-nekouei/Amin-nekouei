@@ -32,9 +32,9 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**ScholarBridge**](https://github.com/Amin-nekouei/scholarbridge) | Health research marketplace with roles, workflow, i18n and CI/CD · [live](https://researchdesk-beta.onrender.com/en/) | Django, PostgreSQL, Playwright, GitHub Actions |
+| [**Healthcare Management API**](https://github.com/Amin-nekouei/Healthcare_Management_System) | Secured REST API with role-based access (in progress) | Jakarta EE, JPA, MySQL |
 | [**CuisineCollective**](https://github.com/Amin-nekouei/CuisineCollective) | Recipe-sharing web app with accounts, uploads and search | PHP, MySQL, JavaScript |
 | [**Beer Store Database**](https://github.com/Amin-nekouei/Beer-Store_Database) | Normalized Oracle schema with history tracking via PL/SQL triggers | Oracle, PL/SQL |
-| [**Healthcare Management API**](https://github.com/Amin-nekouei/Healthcare_Management_System) | Secured REST API with role-based access (in progress) | Jakarta EE, JPA, MySQL |
 | [**Workout Tracker**](https://github.com/Amin-nekouei/Workout_Tracker) | Logs workouts from plain English to Google Sheets | Python, REST APIs |
 | [**Flask Portfolio**](https://github.com/Amin-nekouei/Flask-Portfolio-Website) | My personal portfolio site | Flask, Bootstrap |
 
