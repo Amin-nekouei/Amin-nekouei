@@ -10,6 +10,7 @@
 ## ⭐ Featured project: ScholarBridge
 
 [![CI/CD](https://img.shields.io/endpoint?cacheSeconds=300&url=https://gist.githubusercontent.com/Amin-nekouei/2b43e83c82daa4ab4efb6237c051a41d/raw/ci.json)](https://github.com/Amin-nekouei/scholarbridge#testing--cicd) [![Unit tests](https://img.shields.io/endpoint?cacheSeconds=300&url=https://gist.githubusercontent.com/Amin-nekouei/2b43e83c82daa4ab4efb6237c051a41d/raw/tests.json)](https://github.com/Amin-nekouei/scholarbridge#testing--cicd) [![E2E tests](https://img.shields.io/endpoint?cacheSeconds=300&url=https://gist.githubusercontent.com/Amin-nekouei/2b43e83c82daa4ab4efb6237c051a41d/raw/e2e.json)](https://github.com/Amin-nekouei/scholarbridge#testing--cicd)
+<sub><br><i>Live CI status: updated automatically on every push to the private source repository.</i></sub>
 
 **A bilingual (Persian/English) marketplace for health research.** Students and researchers in medicine, dentistry and nursing get help with search strategies, systematic reviews, epidemiology and biostatistics from vetted experts. Built with Django and deployed on Render with PostgreSQL.
 
