@@ -1,6 +1,6 @@
 # Hi, I'm Amin Nekouei 👋
 
-**Junior full-stack developer** studying Computer Programming at Algonquin College in Ottawa. I build web applications end to end, from database design and back-end logic to the interface people actually use, and I like automating the boring parts.
+**Junior Software developer** studying Computer Programming at Algonquin College in Ottawa. I build web applications end to end, from database design and back-end logic to the interface people actually use, and I like automating the boring parts.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amin--nekouei-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-nekouei)
 [![Email](https://img.shields.io/badge/Email-aminnekouei%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aminnekouei@gmail.com)
