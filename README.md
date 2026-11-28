@@ -1,6 +1,6 @@
 # Hi, I'm Amin Nekouei 👋
 
-**Junior Software developer** studying Computer Programming at Algonquin College in Ottawa. I build web applications end to end, from database design and back-end logic to the interface people actually use, and I like automating the boring parts.
+**Junior Software Developer & QA / Test Automation** studying Computer Programming at Algonquin College in Ottawa. I build web applications end to end, from database design and back-end logic to the interface people actually use, and I make sure they work: I write unit, integration and end-to-end tests (pytest, Playwright, Selenium) and run them automatically in CI/CD.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amin--nekouei-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-nekouei)
 [![Email](https://img.shields.io/badge/Email-aminnekouei%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aminnekouei@gmail.com)
@@ -22,7 +22,7 @@
 - A single state machine controls the whole project lifecycle, with a full audit trail
 - Protected file downloads, in-project messaging, ratings and notifications in each reader's language
 - Complete RTL/LTR internationalization and infrastructure-as-code deployment
-- 29 automated tests, including Playwright end-to-end tests of complete user journeys
+- 63 automated tests: 56 unit and integration tests plus 7 Playwright end-to-end tests of complete user journeys
 - GitHub Actions CI/CD: every push is tested on PostgreSQL, then deployed to Render and verified on the live site
 
 > Try it with `client1` / `demo1234`. The first load can take up to a minute on the free hosting tier.
@@ -48,7 +48,7 @@ Smaller Python projects: [Password Manager](https://github.com/Amin-nekouei/Pass
 | **Back end** | Django · Flask · Jakarta EE (JAX-RS, JPA) · Servlets/JSP |
 | **Front end** | HTML · CSS · Bootstrap · Jinja / Django templates · Flutter |
 | **Databases** | PostgreSQL · MySQL · Oracle (PL/SQL) · SQL Server |
-| **Testing & CI/CD** | pytest · Playwright · Selenium · GitHub Actions |
+| **Testing, QA & CI/CD** | pytest · Playwright · Selenium · GitHub Actions |
 | **Tools** | Git · GitHub · Maven · Render · Linux |
 
 ## 🌍 Languages
